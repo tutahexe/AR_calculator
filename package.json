@@ -1,0 +1,27 @@
+{
+  "name": "ar_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arServer.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "pug": "^2.0.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutahexe/AR_calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutahexe/AR_calculator/issues"
+  },
+  "homepage": "https://github.com/tutahexe/AR_calculator#readme"
+}
